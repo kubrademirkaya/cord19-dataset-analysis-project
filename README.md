@@ -86,9 +86,9 @@ Yapılan analizler ve görselleştirmeler sonucunda elde edilen temel bulgular a
 * Grafik: Most Frequent Words in COVID-19 Article Titles
 * Kelime bulutu, "COVID", "SARS-CoV", "pandemic", "patient", "virus", "infection", "vaccine", "disease", "treatment" gibi beklenen temel terimlerin yanı sıra, "respiratory", "clinical", "impact", "analysis", "health" gibi kavramların da literatürde baskın olduğunu göstermektedir. Bu, araştırmanın odak alanları hakkında hızlı bir görsel özet sunar.
 
-## Sonuç ve Tıp Camiası İçin Değeri
+## Sonuç
 
-Bu proje, CORD-19 veri setindeki meta verileri kullanarak COVID-19 ile ilgili bilimsel yayınların **nicel eğilimlerini ve yapısal özelliklerini** görselleştirmeyi başarmıştır. Elde edilen bulgular, tıp camiasının şu konularda hızlıca içgörü edinmesine yardımcı olabilir:
+Bu proje, CORD-19 veri setindeki meta verileri kullanarak COVID-19 ile ilgili bilimsel yayınların **nicel eğilimlerini ve yapısal özelliklerini** görselleştirmeyi başarmıştır. Elde edilen bulgular, şu konularda hızlıca içgörü edinilmesine yardımcı olabilir:
 
 * **Araştırma Hızının Anlaşılması:** Salgın boyunca araştırmaların ne kadar hızlı arttığını ve hangi dönemlerde zirve yaptığını görmek.
 * **Etkili Yayın Kanalları:** COVID-19 araştırmalarında en aktif dergileri ve preprint sunucularını belirlemek, yeni araştırmaları takip etmek veya kendi çalışmalarını yayınlamak için yol göstermek.
